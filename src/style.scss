@@ -1,0 +1,158 @@
+// Font Import
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Serif');
+
+// Fonts
+$heading-font: 'Noto Serif', serif;
+$body-font: 'Noto Sans', sans-serif;
+
+// Colors
+$black: black;
+$light-blue: #2274A5;
+$dark-blue: #053C5E;
+
+// Styles
+body {
+  width: 66.67%;
+  margin: 0 auto;
+
+  @media only screen and (max-width: 700px) {
+    width: 100%;
+  }
+}
+
+a, a:visited, a:link {
+  font: {
+    family: $body-font;
+    weight: bold;
+  }
+  color: $light-blue;
+  transition: color 0.3s ease-in-out;
+
+  &:hover {
+    color: $dark-blue;
+  }
+}
+
+#header {
+  font-size: calc(16pt + 1.25vw);
+  text-align: center;
+
+  > h1 > a {
+    display: inline-block;
+    font-family: $heading-font;
+    text-decoration: none;
+    transition-property: color, transform;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    padding: 10px;
+  }
+}
+
+#nav {
+  font-size: 20pt;
+  border: {
+    top: 3px solid $light-blue;
+    bottom: 3px solid $light-blue;
+  }
+
+  > ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    list-style: none;
+
+    padding: 0;
+    margin: 0;
+
+    > li > a {
+      display: block;
+      text-decoration: none;
+      padding: 15px;
+      transition-property: color, transform;
+
+      &:hover {
+        transform: scale(1.15);
+      }
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    margin: 15px;
+  }
+}
+
+main {
+  @media only screen and (max-width: 700px) {
+    padding: 20px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  color: $black;
+}
+
+blockquote {
+  text-align: center;
+
+  margin: {
+    left: 0;
+    right: 0;
+  }
+
+  p {
+    font: {
+      size: 16pt;
+      weight: bold;
+    }
+    color: $light-blue;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $heading-font;
+  color: $light-blue;
+}
+
+h1 {
+  font-size: 2.25em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.42em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1.07em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+p, blockquote, ul, ol, li {
+  font-family: $body-font;
+  font-size: 15pt;
+  color: $dark-blue;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}

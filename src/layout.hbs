@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1"/>
+
+        <title>{{sanitize (titleize title)}} | {{sanitize (titleize subtitle)}}</title>
+
+        <meta name="author" content="{{name}}"/>
+        <meta name="description" content="{{sanitize description}}"/>
+        <meta name="keywords" content="{{join tags ','}}"/>
+
+        <meta itemprop="name" content="{{sanitize (titleize title)}} | {{sanitize (titleize subtitle)}}"/>
+        <meta itemprop="description" content="{{sanitize description}}"/>
+        <meta itemprop="image" content="{{url}}/img/icon.png"/>
+
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="{{sanitize (titleize title)}} | {{sanitize (titleize subtitle)}}"/>
+        <meta name="twitter:description" content="{{sanitize description}}"/>
+        <meta name="twitter:image" content="{{url}}/img/icon.png"/>
+        <meta name="twitter:image:src" content="{{url}}/img/icon.png"/>
+
+        <meta property="og:title" content="{{sanitize (titleize title)}} | {{sanitize (titleize subtitle)}}"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content="{{url}}/{{@file.relative}}"/>
+        <meta property="og:image" content="{{url}}/img/icon.png"/>
+        <meta property="og:description" content="{{sanitize description}}"/>
+        <meta property="og:site_name" content="{{sanitize (titleize title)}} | {{sanitize (titleize subtitle)}}"/>
+
+        <link rel="shortcut icon" href="/img/icon.png" type="image/png" />
+
+        <link rel="stylesheet" href="/style.css"/>
+    </head>
+    <body>
+        <header id="header">
+            <h1><a href="/">{{name}}</a></h1>
+        </header>
+        <nav id="nav">
+            <ul>
+                {{#each pages}}
+                    <li>
+                        <a href="{{this}}">{{titleize @key}}</a>
+                    </li>
+                {{/each}}
+                <li><a target="_blank" rel="noopener" href="/other/resume.pdf">Resume</a></li>
+            </ul>
+        </nav>
+        <main>
+            {{{contents}}}
+        </main>
+    </body>
+</html>
