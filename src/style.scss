@@ -26,6 +26,7 @@ a, a:visited, a:link {
     weight: bold;
   }
   color: $light-blue;
+  -webkit-backface-visibility: hidden;
   transition: color 0.3s ease-in-out;
 
   &:hover {
