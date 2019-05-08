@@ -29,14 +29,6 @@ a {
   transition: color 0.3s ease-in-out;
 }
 
-a:link {
-  color: $light-blue;
-}
-
-a:visited {
-  color: $light-blue;
-}
-
 a:hover {
   color: $dark-blue;
 }
