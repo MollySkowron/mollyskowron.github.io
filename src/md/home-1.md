@@ -1,42 +1,24 @@
-Hi! My name is *Molly Skowron* and I'm a high school biology teacher!
+## About Me
 
-> "My favorite quote is great!"
+#### Education
+- [The College of New Jersey](https://tcnj.edu/) Class of 2020
+- Majors: Biology & Secondary Education
+
+
+#### Certifications
+- New Jersey Department of Education Teaching Certification (Expected May 2020)
+- New Jersey Principals and Supervisors Association (NJPSA) Bullying 101 for Educators
+- NJPSA Anti-Bullying Bill of Rights
+- Youth Mental Health First Aid
+- American Red Cross First Aid/CPR/AED
+
+
+#### Inspiration
+
+> "Science is a way of thinking much more than it is a body of knowledge"
 >
 > \- Carl Sagan
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   
-   
-   
-![GitHub Logo](/img/src2img-example.png)
-
-[my resume](/other/resume.pdf)
-
-<img style="float: left;" src="/img/src2img-example.png">
-
-wowowowowossggs dlfg sdfg sdlfkgjhs dlfkgjh sdlfkgjh sdfg
-sdf gsdfg sfdfg sdg sdfg S
-  
+<img alt="front view of high school" src="/img/classroom.jpg" style="float: left; width: calc(33.33% - 10px); padding-right: 10px;"/>
+<img alt="front view of high school" src="/img/fishtank.jpg" style="float: left; width: calc(33.33% - 10px); padding-right: 10px;"/>
+<img alt="high school lunchroom" src="/img/dna.jpg" style="width: calc(33.33% - 10px); margin-bottom: 10px;"/>
