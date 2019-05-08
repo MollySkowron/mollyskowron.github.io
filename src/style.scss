@@ -20,21 +20,27 @@ body {
   }
 }
 
-a, a:visited, a:link {
+a {
   font: {
     family: $body-font;
     weight: bold;
   }
   color: $light-blue;
-}
-
-a {
   transition: color 0.3s ease-in-out;
 
   &:hover {
     color: $dark-blue;
   }
 }
+
+a:link {
+  color: $light-blue;
+}
+
+a:visited {
+  color: $light-blue;
+}
+
 
 #header {
   font-size: calc(16pt + 1.25vw);
