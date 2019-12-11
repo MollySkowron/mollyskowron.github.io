@@ -3,7 +3,7 @@
 #### Inquiry Activity &mdash; gametes and fertilization
 - Given an example of a regular cell for an organism, half of the lab groups made sperm cells for that organism and the other half made egg cells
 - Egg cells from one lab group were fertilized with sperm cells from the adjacent lab group. The number of chromosomes was counted
-- Every group had offspring that contained double the amount of chromosomes than the parent had
+- Every group had offspring that contained double the number of chromosomes than the parent had
 - To solve this problem, students needed to work together to figure out that sperm and egg cells must contain half the amount of DNA that somatic cells contain.
 
 ![handout from inquiry activity](/img/FertilizationInquiry.jpg)

@@ -11,13 +11,13 @@ Click on a philosophy to see its implementation in the classroom.
    **Mortimer J. Adler** &mdash; schooling should prepare students for the duties of citizenship and democracy.
 
 3. [In the classroom, students should be respected and their ideas should be valued.](/page/philosophy3.html)<br>
-   **Lev Vygotsky** &mdash; a student's capabilities must be considered in relation to things they can do individually as well as things they can do when assisted. When assisted by the teacher or a peer, a student is learning in the zone of proximal development. The end goal is to have all students be able to coplete the task individually.<br>
+   **Lev Vygotsky** &mdash; a student's capabilities must be considered in relation to things they can do individually as well as things they can do when assisted. When assisted by the teacher or a peer, a student is learning in the zone of proximal development. The end goal is to have all students be able to complete the task individually.<br>
    **Albert Bandura** &mdash; people with high self efficacy (those who believe that they can perform well) are more likely to view difficult tasks as something to be mastered rather than something to be avoided.
 
 
 4. [Students should not be assessed on their ability to memorize and recite information, but on their ability to understand and apply information.](/page/philosophy4.html)<br>
 **Ralph W. Tyler** &mdash; traditional testing is not a fair assessment of student growth. Assessment should be based on measuring objectives rather than memorization.<br>
-**Benjamin Bloom** &mdash; memorization is the ranked the lowest in Bloom's Taxonomy because he believed that it is the lowest form of cognitive process. Application and understanding are ranked above memorization.
+**Benjamin Bloom** &mdash; memorization is ranked the lowest in Bloom's Taxonomy because he believed that it is the lowest form of cognitive process. Application and understanding are ranked above memorization.
 
 
 

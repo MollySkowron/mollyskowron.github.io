@@ -5,7 +5,7 @@
 
 #### Community Context - Hamilton North-Nottingham High School
 
-- Below average in college enrollment, collge readiness, and test scores
+- Below average in college enrollment, college readiness, and test scores
 - 55% of students come from low-income families
 
 #### My Classes
