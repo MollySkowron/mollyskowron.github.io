@@ -186,8 +186,8 @@ gulp.task('browser', done => {
 })
 
 gulp.task('watch', gulp.series(
-  'browser',
   'default',
+  'browser',
   () => {
     gulp.watch(['src/info.yaml', 'src/md/**/*.md'], gulp.series(info, gulp.parallel(cname, html)))
     gulp.watch('src/layout.hbs', html)
