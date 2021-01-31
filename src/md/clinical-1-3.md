@@ -9,3 +9,7 @@
 - Earned 2019 College Success Award based on its success in preparing students for college and ultimately career
 - 27th best high school in the country for STEM
 - 16th best school district in New Jersey
+
+#### My Classes
+
+- Two sections of honors biology for 9th grade

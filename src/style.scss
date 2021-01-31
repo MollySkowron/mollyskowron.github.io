@@ -10,6 +10,10 @@ $black: black;
 $light-blue: #2274A5;
 $dark-blue: #053C5E;
 
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
 // Styles
 body {
   width: 66.67%;

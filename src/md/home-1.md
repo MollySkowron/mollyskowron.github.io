@@ -1,14 +1,14 @@
 ## About Me
 
 #### Education
-- [The College of New Jersey](https://tcnj.edu/) Class of 2020
-- Majors: Biology & Secondary Education
+- [The College of New Jersey](https://tcnj.edu/) (TCNJ), Ewing, NJ
+- Bachelor of Science in Biology Secondary Education, May 2020
 
 
 #### Certifications
-- New Jersey Department of Education Teaching Certification (Expected May 2020)
-- New Jersey Principals and Supervisors Association (NJPSA) Bullying 101 for Educators
-- NJPSA Anti-Bullying Bill of Rights
+- Certificate of Eligibility with Advanced Standing (CEAS), Biology, State of New Jersey, Summer 2020
+- Harassment, Intimidation, and Bullying (HIB) certification
+- Substitute Teacher, State of New Jersey
 - Youth Mental Health First Aid
 - American Red Cross First Aid/CPR/AED
 
